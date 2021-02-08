@@ -1,4 +1,4 @@
-name = 'Алиса'
+name = 'Алиса!'
 
 def print_hi(name):
     print(f'Привет, {name}')
